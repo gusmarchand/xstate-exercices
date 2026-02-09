@@ -42,13 +42,6 @@ XX-nom-module/
 3. **Execute ton code** avec `npx tsx XX-module/exercice.ts`
 4. **Verifie** que les tests en bas de fichier produisent les resultats attendus
 
-## Ressources complementaires
-
-- [Documentation officielle XState v5](https://stately.ai/docs/xstate)
-- [Stately Studio](https://stately.ai/studio) - Editeur visuel de machines
-- [XState Visualizer](https://stately.ai/viz) - Visualiser tes machines
-- [@xstate/react docs](https://stately.ai/docs/xstate-react)
-
 ## Tips
 
 ### Visualiser ta machine
