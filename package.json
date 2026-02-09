@@ -1,0 +1,29 @@
+{
+  "name": "learn-xstate",
+  "version": "1.0.0",
+  "description": "Parcours d'apprentissage XState v5",
+  "type": "module",
+  "scripts": {
+    "m1": "tsx 01-premiere-machine/exercice.ts",
+    "m2": "tsx 02-contexte-actions/exercice.ts",
+    "m3": "tsx 03-guards/exercice.ts",
+    "m4": "tsx 04-etats-imbriques/exercice.ts",
+    "m5": "tsx 05-etats-paralleles/exercice.ts",
+    "m6": "tsx 06-actors-services/exercice.ts"
+  },
+  "dependencies": {
+    "xstate": "^5.18.0",
+    "@xstate/react": "^4.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "tsx": "^4.7.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "react": "^18.2.0"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
